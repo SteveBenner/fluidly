@@ -1,4 +1,4 @@
-# Apple seriously, comon
+## Apple seriously, comon
 ._*
 .DS_Store
 .DS_Store?
@@ -8,39 +8,21 @@ ehthumbs.db
 Icon?
 Thumbs.db
 
-# Vim, you are no longer cool
+## Vim, you are no longer cool
 *~
 
-# JetBrains IDE configuration files
+## JetBrains IDE configuration files
 .idea/
 
-# SASS/SCSS
+## SASS/SCSS
 .sass-cache/
 
-# Bundler
+## Bundler
 Gemfile.lock
 .gems/
 .bundle/
 
-# Bower
+## Bower
 bower_components/
+bower-components/
 components/
-
-### RhoMobile/Rhodes
-
-# build files
-bin/
-rhosimulator/
-/project/
-*.jar
-*.o
-
-# logs and symlinks
-rholog.txt
-rhologrhhrho
-rholog-*
-sim-*
-
-# RhoStudio (Eclipse)
-.metadata/
-.project
