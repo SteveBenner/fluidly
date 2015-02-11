@@ -1,7 +1,7 @@
 # Fluidly
 A library for making your [Fluid.app](http://fluidapp.com/) development go more fluidly.
 
-Right now this is just full of future-sauce.
+**Right now this is just full of future-sauce; hardly any code has been written.**
 
 ### Goals
 - Programmatic loading of CSS and Javascript files as corresponding 'userstyles' and 'userscripts'.
