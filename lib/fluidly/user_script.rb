@@ -1,7 +1,7 @@
 # UserScript
 #
 module Fluidly
-	class UserScript < CodeEntity
+  class UserScript < CodeEntity
 
-	end
+  end
 end

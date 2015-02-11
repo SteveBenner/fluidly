@@ -1,7 +1,7 @@
 # UserStyle
 #
 module Fluidly
-	class UserStyle < CodeEntity
+  class UserStyle < CodeEntity
 
-	end
+  end
 end
